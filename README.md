@@ -1,1 +1,2 @@
-# git_learning
+# Banana leaf disease detection
+This repository provides an object detection model based on YOLOv8 for identifying banana leaf disease detection. a comprehensive dataset comprising 1623 high-resolution images of banana plant leaves was collected from multiple plantations located in tropical regions. The dataset includes images under varied lighting conditions, leaf orientations, and disease stages, focusing on common banana leaf diseases such as Sigatoka, cordana, Fusarium and Pestalotiopsis. Approximately 70% of the dataset featured diseased leaves, while 30% were healthy, ensuring a balanced distribution for model training.
